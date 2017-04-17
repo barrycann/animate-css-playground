@@ -1,0 +1,22 @@
+{
+  "name": "animate-css-playground",
+  "version": "1.0.0",
+  "description": "Wanted to play with some of the animate-css properties",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barrycann/animate-css-playground.git"
+  },
+  "author": "BarryCann",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/barrycann/animate-css-playground/issues"
+  },
+  "homepage": "https://github.com/barrycann/animate-css-playground#readme",
+  "dependencies": {
+    "animate.css": "^3.5.2"
+  }
+}
